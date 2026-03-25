@@ -11,7 +11,7 @@ profit, and customer behavior using the Sample Superstore dataset.
 
 ## Data Model
 Star Schema with 1 Fact table and 4 Dimension tables
-- Fact_Orders
+- Sample - Superstore
 - Dim_Customer
 - Dim_Product
 - Dim_Date
@@ -29,6 +29,3 @@ Star Schema with 1 Fact table and 4 Dimension tables
 - Binders carry 37% avg discount — highest in the dataset
 - Consumer segment contributes 50%+ of total sales
 - California and New York are the top 2 states by revenue
-
-## Screenshots
-[Add your screenshots here]
